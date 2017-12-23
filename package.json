@@ -1,7 +1,7 @@
 {
   "name": "workspace",
   "version": "1.0.0",
-  "description": "Ashkaan 401 Labs",
+  "description": "401 Labs",
   "main": "index.js",
   "devDependencies": {
     "enzyme": "^3.2.0",
